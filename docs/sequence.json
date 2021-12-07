@@ -1,15 +1,15 @@
 [
     {
-        "procs": 2
-    },
-    {
         "procs": 3
     },
     {
-        "procs": 1
+        "procs": 4
     },
     {
-        "procs": 4
+        "procs": 2
+    },
+    {
+        "procs": 5
     },
     {
         "procs": 5
