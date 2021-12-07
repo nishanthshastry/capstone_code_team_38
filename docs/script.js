@@ -63,10 +63,13 @@ async function seq_res(){
 }
 seq_res();
 
-function deleteAllCookies() {
-    var c = document.cookie.split("; ");
-    for (i in c) 
-     document.cookie =/^[^=]+/.exec(c[i])[0]+"=;expires=Thu, 01 Jan 1970 00:00:00 GMT";    
-   }
+var cookie = document.cookie.split(';');
 
-deleteAllCookies();
+for (var i = 0; i < cookie.length; i++) {
+
+    var chip = cookie[i],
+        entry = chip.split("="),
+        name = entry[0];
+
+    document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+}
