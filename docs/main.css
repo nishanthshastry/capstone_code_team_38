@@ -1,0 +1,104 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    margin: 0 auto;
+    width: 600px;
+}
+
+table, td, th {
+    border: 1px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+#content {
+    width: 80%;
+}
+
+.tableOne{
+    position: absolute;
+    top: 7%;
+    left: 5%;
+    width: 25%;
+    padding: 5%; 
+}
+
+.textOne{
+    position: absolute;
+    top: 34%;
+    left: 40%;
+}
+
+.rectangle {
+    height: 1.5%;
+    width: 16.5%; 
+    background-color: #555;
+    position: absolute;
+    top: 37.5%;
+    left: 38.5%;
+  }
+
+.triangle-right {
+	/* width: 0;
+	height: 0; */
+	border-top: 20px solid transparent;
+	border-left: 40px solid #555;
+	border-bottom: 20px solid transparent;
+    position: absolute;
+    top: 36.2%;
+    right: 43%;
+}
+
+.tableTwo{
+    position: absolute;
+    top: 7%;
+    right: 3%;
+    width: 30%;
+    padding: 5%; 
+}
+
+.chartOne{
+    position: absolute;
+    top: 54%;
+    right: 2%;
+    width: 40%;
+    padding: 5%;
+}
+
+/* .drop_down_algos{
+    position: absolute;
+    top: 490px;
+    left: 100px;
+    width: 600px;
+    padding: 10px;
+} */
+
+.scheduling{
+    position: absolute;
+    top: 54%;
+    left: 6%;
+    width: 20%;
+    padding: 5%;
+}
+
+.seqTable{
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
