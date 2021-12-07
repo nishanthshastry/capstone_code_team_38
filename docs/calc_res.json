@@ -1,8 +1,8 @@
 [
     {
         "algo": "FCFS",
-        "avg_wait": 6.92,
-        "avg_tat": 9.17
+        "avg_wait": 7.92,
+        "avg_tat": 10.17
     },
     {
         "algo": "SJF (NP)",
