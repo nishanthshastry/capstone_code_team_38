@@ -32,7 +32,7 @@
     {
         "process_id": 6,
         "arrival": 5,
-        "burst": 3,
+        "burst": 5,
         "priority": 6
     },
     {
@@ -50,13 +50,13 @@
     {
         "process_id": 9,
         "arrival": 8,
-        "burst": 3,
+        "burst": 1,
         "priority": 7
     },
     {
         "process_id": 10,
         "arrival": 9,
-        "burst": 3,
+        "burst": 6,
         "priority": 10
     },
     {
