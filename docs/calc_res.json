@@ -1,42 +1,42 @@
 [
     {
         "algo": "FCFS",
-        "avg_wait": 6.92,
-        "avg_tat": 9.17
+        "avg_wait": 7.83,
+        "avg_tat": 10.17
     },
     {
         "algo": "SJF (NP)",
-        "avg_wait": 6.33,
-        "avg_tat": 8.58
+        "avg_wait": 7.25,
+        "avg_tat": 9.58
     },
     {
         "algo": "SJF (P)",
         "avg_wait": 6.0,
-        "avg_tat": 8.25
+        "avg_tat": 8.33
     },
     {
         "algo": "RR Q=1",
-        "avg_wait": 11.08,
-        "avg_tat": 13.33
+        "avg_wait": 11.42,
+        "avg_tat": 13.75
     },
     {
         "algo": "RR Q=2",
-        "avg_wait": 9.83,
-        "avg_tat": 12.08
+        "avg_wait": 10.17,
+        "avg_tat": 12.5
     },
     {
         "algo": "Priority (NP)",
-        "avg_wait": 7.75,
-        "avg_tat": 10.0
+        "avg_wait": 8.58,
+        "avg_tat": 10.92
     },
     {
         "algo": "Priority (P)",
-        "avg_wait": 8.29,
-        "avg_tat": 9.42
+        "avg_wait": 8.62,
+        "avg_tat": 9.79
     },
     {
         "algo": "CPU_CNN",
-        "avg_wait": 6.92,
-        "avg_tat": 9.17
+        "avg_wait": 7.83,
+        "avg_tat": 10.17
     }
 ]
