@@ -2,7 +2,7 @@
     {
         "process_id": 1,
         "arrival": 1,
-        "burst": 3,
+        "burst": 4,
         "priority": 3
     },
     {
@@ -51,13 +51,13 @@
         "process_id": 9,
         "arrival": 8,
         "burst": 3,
-        "priority": 7
+        "priority": 10
     },
     {
         "process_id": 10,
         "arrival": 9,
         "burst": 3,
-        "priority": 10
+        "priority": 7
     },
     {
         "process_id": 11,
